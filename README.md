@@ -7,7 +7,7 @@ Website to serve rendered mlx and ipynb files
 
 
 - [dotproduct.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/dotproduct.ipynb)
-- [dotproduct html](https://uf-splab.github.io/workshop_pages/jupyter_nb/dotproduct.html)
+- [dotproduct html](https://csea-lab.github.io/workshop_pages/jupyter_nb/dotproduct.html)
 - [convolution.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/convolution.ipynb)
 - [convolution html](https://uf-splab.github.io/workshop_pages/jupyter_nb/convolution.html)
 - [convolution_complex.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/convolution_complex.ipynb)
