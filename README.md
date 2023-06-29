@@ -13,7 +13,7 @@ Website to serve rendered mlx and ipynb files
 - [convolution_complex.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/convolution_complex.ipynb)
 - [convolution_complex html](https://uf-splab.github.io/workshop_pages/jupyter_nb/convolution_complex.html)
 - [introto_DFT.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/introto_DFT.ipynb)
-- [introto_DFT html](https://uf-splab.github.io/workshop_pages/jupyter_nb/introto_DFT.html)
+- [introto_DFT html](https://uf-splab.github.io/workshop_pages/jupyter_nb/Introto_DFT.html)
 - [Fourier_demo.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/Fourier_demo.ipynb)
 - [Fourier_demo html](https://uf-splab.github.io/workshop_pages/jupyter_nb/Fourier_demo.html)
 - [filters.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/filters.ipynb)
@@ -22,6 +22,7 @@ Website to serve rendered mlx and ipynb files
 ### Hilbert Transform, Wavelets, and more
 
 - [HilbertPhaseDemo.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/HilbertPhaseDemo.ipynb)
+- [convolution_complex html](https://uf-splab.github.io/workshop_pages/jupyter_nb/HilbertPhaseDemo.html)
 - [hilbertavgdemo.ipynb](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/hilbertavgdemo.ipynb)
 - [introto_FourierUncertainty_no-m.py](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/introto_FourierUncertainty.ipynb)
 - [Introto_Oneoverf_no-m.py](https://github.com/csea-lab/m2py-tutorials/blob/main/notebooks/Introto_Oneoverf.ipynb)
